@@ -1,0 +1,9 @@
+bin/
+obj/
+out/
+.vscode/
+.vs/
+appsettings.Development.json
+*.user
+*.log
+.env
